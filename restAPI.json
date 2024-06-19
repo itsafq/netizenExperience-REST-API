@@ -1,0 +1,12 @@
+{
+    "email": "muhammadafiqzzuddin11@gmail.com",
+    "name": "Muhammad Afiq Izzuddin",
+    "skills": ["Java", "HTML", "CSS", "Python", "PHP"],
+    "experience": [
+        {
+            "company": "Wealth Vantage Advisory Sdn. Bhd.",
+            "role": "IT Support Intern",
+            "years": "3 Months"
+        }
+    ]
+}
